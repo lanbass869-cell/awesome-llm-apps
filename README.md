@@ -133,6 +133,7 @@ streamlit run travel_agent.py
 
 *Production-style agents with tools, memory, and multi-step reasoning.*
 
+- [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** — Cross-client AI memory hub with tamper-evident evidence chain (EU AI Act Art.12), supersession chains (corrections never delete), bi-temporal timestamps, human conflict adjudication, Q-Value ranking, and 23 client adapters. 334 tests. Apache-2.0.
 *   [🏚️ 🍌 AI Home Renovation Agent with Nano Banana Pro](advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) - Photos of your space in, renovation plan and photorealistic renders out
 *   [🧠 DevPulse AI - Multi-Agent Signal Intelligence](advanced_ai_agents/multi_agent_apps/devpulse_ai/) - Aggregates and scores technical signals into a daily intelligence digest
 *   [🔍 AI Deep Research Agent](advanced_ai_agents/single_agent_apps/ai_deep_research_agent/) - Comprehensive web research with the OpenAI Agents SDK and Firecrawl
